@@ -2,7 +2,9 @@
 Technology
 ~~~~~~~~~~
 
-1) Kelvin's bot! bot command test server!
+1) The LabDAO Research Assistant Bot is Live!!
+
+An custom discord bot for the LabDAO server was launched earlier this week! The bot is ready and hosted and patrols this discords channels! Test it out by typing $Ping to say hi, or $help to get a list of commands! At the time the bot is still being improved and iterated upon by @Kelvin, with more functionality in the pipeline, such as integration with discord events and google calendar. If there are any commands or functionalities you think would be useful reach out to @Kelvin with your suggestions! 
 
 2) Stewardship channel: 
 "We have a basic version of the exchange protocol running on the "cli-subgraph-a" branch 
